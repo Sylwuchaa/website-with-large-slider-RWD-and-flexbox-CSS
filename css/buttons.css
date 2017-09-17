@@ -1,0 +1,36 @@
+/* buttons */
+.btn {
+display: inline-block;
+background: #3e6edf;
+color: #fff;
+padding: 12px 18px;
+border: 0;
+border-radius: 3px;
+}
+		
+.btn:hover {
+	opacity:  0.9;
+}
+.btn i {
+	margin-left: 6px;
+}
+.btn-sm {
+	font-size: 14px;
+	padding: 8px 12px;
+}
+
+.btn-lg {
+	font-size: 28px;
+	padding: 16px 24px;
+}
+
+/* buttons color */
+.btn-gray {
+	background: #808080;
+	color: #fff
+}
+
+.btn-yellow {
+	background: #e5f713;
+	color: #333;
+}
