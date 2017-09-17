@@ -10,6 +10,8 @@ to do list:
 
 -change system grid to flexbox
 
--add javascript/jquery script
+-add javascript/jquery script (active elements click and scroll destination section)
 
 -create RWD with media queries 
+
+-add feature-boxes section, newsletter, contact, buttom etc.
