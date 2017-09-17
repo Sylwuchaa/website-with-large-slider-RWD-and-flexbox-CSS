@@ -12,4 +12,4 @@ to do list:
 
 -add javascript/jquery script
 
--creat RWD with media queries 
+-create RWD with media queries 
