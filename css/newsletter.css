@@ -1,0 +1,40 @@
+/* Newsletter */
+.newsletter {
+	background: #3e6edf;
+	padding: 35px 0px;
+}
+/* Newsletter text */
+.newsletter-text {}
+.newsletter-text h3,
+.newsletter-text p {
+	color: #fff;
+}
+.newsletter-text h3 {
+	margin: 0 0 15px;
+	font-weight: 300;
+}
+.newsletter-text p {
+	margin: 0px;
+}
+/* Newsletter CTA */
+.newsletter-cta {
+	text-align: center;
+	margin-top: 22px;
+}
+/* Modal */
+.remodal form {
+	max-width: 300px;
+	margin: 0 auto;
+}
+.remodal input, 
+.remodal button {
+	width: 100%;
+} 
+
+.remodal input {
+	margin-bottom: 10px;
+}
+
+.remodal button {
+	text-transform: uppercase;
+}

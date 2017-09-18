@@ -6,6 +6,9 @@ color: #fff;
 padding: 12px 18px;
 border: 0;
 border-radius: 3px;
+font-family: Lato, Arial, Helvetica, sans-serif;
+line-height: 1.4;
+cursor: pointer;
 }
 		
 .btn:hover {

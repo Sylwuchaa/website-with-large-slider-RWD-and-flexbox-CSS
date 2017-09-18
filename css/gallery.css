@@ -1,0 +1,17 @@
+.gallery{}
+
+.gallery-item {
+	width: 90%;
+}
+
+.gallery-image-link{ 
+display: block;
+margin-bottom: 30px;
+}
+
+.gallery-image-link img {
+	width: 100%;
+	display: block;
+	
+}
+
