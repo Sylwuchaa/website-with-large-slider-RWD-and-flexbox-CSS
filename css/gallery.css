@@ -12,6 +12,18 @@ margin-bottom: 30px;
 .gallery-image-link img {
 	width: 100%;
 	display: block;
-	
+}
+
+.gallery-item h3 {
+	font-size; 24px;
+	margin: 0 0 15px;
+}
+
+.gallery-item h3 a {
+	color: #333; 
+}
+/* Description */
+.gallery-item p {
+	margin: 0;
 }
 

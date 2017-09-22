@@ -1,0 +1,32 @@
+/* Footer */
+
+.page-footer{}
+
+/*Contact form */
+.contact-form {}
+
+.contact-form label {
+	display: block;
+	margin-bottom: 3px;
+	
+}
+
+.contact-form input,
+.contact-form select,
+.contact-form textarea {
+	display: block;
+	width: 100%;
+}
+
+
+.contact-form textarea {
+	min-height: 200px;
+}
+
+
+
+.google-location {
+	width: 100%;
+	display: block;
+	padding: 15px 0px;
+}
