@@ -16,7 +16,10 @@ body {
 	font: 18px / 1.4 Lato, Arial, Helvetica, sans-serif;
 	margin-top: 75px;
 }
-
+/* Text */
+p {
+	margin: 0 0 12px;
+}
 /* Links */
 a {
 	text-decoration: none;
@@ -31,13 +34,10 @@ img {
 	
 	
 /* Normalize buttons and form fields */
-button, input, optgroup, select, texarea
-{
+button, input, optgroup, select, texarea, optgroup {
 	font-family: Lato, Arial, Helvetica, sans-serif;
 	line-height: 1.4;
-	
 }
-
 /* Forms */
 input, select, textarea {
 border-radius: 3px;
@@ -76,6 +76,9 @@ h5 {
 h6 {
 	font-size: 18px;
 }
+
+
+
 
 
 

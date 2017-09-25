@@ -2,13 +2,35 @@
 
 .page-footer{}
 
+.contact-form, 
+.contact-info {
+	width: 46%;
+}
+
 /*Contact form */
-.contact-form {}
+.contact-form {
+	margin-right: 8%;
+}
+
+.form-group {
+	margin-bottom: 15px;
+	
+}
+
+.form-group-1-2 {}
+
+.form-group-1-2 div {
+	width: 48%;
+	float: left;
+}
+
+.form-group-1-2 div:first-child {
+	margin-right: 4%;	
+}
 
 .contact-form label {
 	display: block;
 	margin-bottom: 3px;
-	
 }
 
 .contact-form input,
@@ -23,10 +45,51 @@
 	min-height: 200px;
 }
 
-
-
 .google-location {
 	width: 100%;
 	display: block;
-	padding: 15px 0px;
+	padding: 10px 0px;
 }
+
+.contact-info h3 {
+	margin: 0 0 15px;
+}
+
+.contact-about {
+	margin-bottom: 40px;
+}
+
+.contact-adress {}
+.contact-icons {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.contact-icons li {
+	display: block;
+	margin-bottom: 15px;
+}
+.contact-icons i {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	background: #3e6edf;
+	color: #fff;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 30px;
+}
+
+.contact-icons span {
+	margin-left: 6px
+}
+/* Copyrights */
+.copyrights {
+	text-align: center;
+	background: #ccc;
+	color: #333;
+	padding: 22px 0;
+	margin-top: 0px;
+}	
+
+.copyrights p { margin: 0; }
