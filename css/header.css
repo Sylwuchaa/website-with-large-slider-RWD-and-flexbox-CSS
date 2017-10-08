@@ -41,10 +41,14 @@
 	font-weight: bold;
 	display: block;
 	padding: 12px 20px;
+	-webkit-transition: background-color 1s; /* bo Safari */
+	transition: background-color 1s;
 }
+
 
 .menu-links a:hover,
 .menu-links .active {
 	color: #fff;
-	background: #3e6edf;
+	/**background: #3e6edf;**/
+	background-color: #3e6edf;
 }
