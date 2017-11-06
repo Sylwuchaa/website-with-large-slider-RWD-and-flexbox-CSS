@@ -1,12 +1,14 @@
 /* Grid */
-.container {
+.container, .grid-container {
 	max-width: 1170px;
 	width: 100%;
 	margin: 0 auto;
-	padding: 0 15px;
+	padding: 0 20px;
 }
 
-.container:after,
+.container { display: flex; }
+
+.grid-container:after,
 .cf:after {
 	content: '';
 	display: table;
