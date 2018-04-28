@@ -6,6 +6,6 @@
 * img file from - unsplash.it 
 * popup window
 * gallery  
-* icon from - http://ionicons.com/
+* icon from - ionicons.com
 
 # LivePreview https://sylwuchaa.github.io/website-with-large-slider-RWD-and-flexbox-CSS/
